@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hello World! My name is Jorge
+  <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.gif" alt="🫡" width="32" height="32">
+</picture></h1>
+</div>
 
-<!--
-**Jorge-ARM/Jorge-ARM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Imgur Image](https://i.imgur.com/2KYq7vy.png)
 
-Here are some ideas to get you started:
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/DevJorgeARM)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## About Jorge
+
+ ![Imgur Image](https://i.imgur.com/3Zz73K5.png)
+ 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=54F77C&random=false&width=435&lines=a+Student;a+Java+developer;a+PostgreSQL+developer;an+Enthusiastic+apprentice)](https://git.io/typing-svg)
+
+- 📚 ICT Engineering student, 3th year
+- 🌱 Learning Python and Java developer
+- 🖥️ Knowledgeable in PostgreSQL
+- 📖 Passionate about technology and software development
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Jorge-ARM">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jorge-ARM&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
