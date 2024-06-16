@@ -27,6 +27,7 @@
 
 <p align="center">
 <a href="https://github.com/Jorge-ARM">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jorge-ARM&layout=compact&langs_count=8&theme=algolia"/>
+ <!--START_SECTION:waka-->
+ <!--END_SECTION:waka-->
 </a>
 </p>
