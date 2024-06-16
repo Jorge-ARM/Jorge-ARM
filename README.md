@@ -25,5 +25,6 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
+[![wakatime](https://wakatime.com/badge/user/deaf6ed6-a09a-4c2a-9b66-9c0ca308b543.svg)](https://wakatime.com/@deaf6ed6-a09a-4c2a-9b66-9c0ca308b543)
  <!--START_SECTION:waka-->
  <!--END_SECTION:waka-->
