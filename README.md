@@ -15,7 +15,7 @@
 
  ![Imgur Image](https://i.imgur.com/3Zz73K5.png)
  
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=54F77C&random=false&width=435&lines=a+Student;a+Java+developer;an+SQL+developer;an+Enthusiastic+apprentice)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=54F77C&random=false&width=435&lines=a+Student;a+Java+developer;an+Enthusiastic+apprentice)](https://git.io/typing-svg)
 
 - 📚 ICT Engineering student, 3th year
 - 🌱 Learning Python and Java developer
