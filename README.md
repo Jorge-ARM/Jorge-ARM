@@ -17,9 +17,9 @@
  
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=54F77C&random=false&width=435&lines=a+Student;a+Java+developer;an+Enthusiastic+apprentice)](https://git.io/typing-svg)
 
-- 📚 ICT Engineering student, 3th year
-- 🌱 Learning Python and Java developer
-- 🖥️ Knowledgeable in SQL
+- 📚 ICT Engineering student, 4th year
+- 🌱 Learning web development
+- 🖥️ Knowledgeable in databases
 - 📖 Passionate about technology and software development
 
 
