@@ -16,7 +16,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=54F77C&random=false&width=435&lines=ICT+Engineering+Student;Backend+Developer;Software+Engineer;Tech+Enthusiast;Open-Source+Contributor)](https://git.io/typing-svg)
 
-- 🎓 ICT Engineering student, 7th semester
+- 🎓 ICT Engineering student, 9th semester
 - 🌱 Specializing in backend development, APIs and cloud services
 - 🖥️ Skilled in databases, Go, Java and web development
 - 📖 Passionate about continuous learning
